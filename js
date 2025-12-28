@@ -1,2 +1,2 @@
-js/database.js
-js/main.js
+database.js
+main.js
